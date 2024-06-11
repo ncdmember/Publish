@@ -1,0 +1,10 @@
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\bin\Debug\ManagerCrawl.exe.config
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\bin\Debug\ManagerCrawl.exe
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\bin\Debug\ManagerCrawl.pdb
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\obj\Debug\ManagerCrawl.csproj.AssemblyReference.cache
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\obj\Debug\ManagerCrawl.Properties.Resources.resources
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\obj\Debug\ManagerCrawl.csproj.GenerateResource.cache
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\obj\Debug\ManagerCrawl.csproj.CoreCompileInputs.cache
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\obj\Debug\ManagerCrawl.exe
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\obj\Debug\ManagerCrawl.pdb
+D:\WinForm\ManagerCrawl\ManagerCrawl\ManagerCrawl\obj\Debug\ManagerCrawl.ManagerCrawl.resources
