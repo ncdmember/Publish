@@ -6,6 +6,7 @@
   <appSettings>
     <add key="ChromeDriverVersion" value="0" />
     <add key="ChromeDriverPath" value="" />
+    <add key="ChromeProfilePath" value="C:\Users\jinza\AppData\Local\Google\Chrome\User Data\Profile 6" />
   </appSettings>
   <runtime>
     <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
