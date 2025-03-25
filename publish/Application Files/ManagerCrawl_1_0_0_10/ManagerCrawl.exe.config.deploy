@@ -4,9 +4,9 @@
     <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.2" />
   </startup>
   <appSettings>
-    <add key="ChromeDriverVersion" value="134.0.6998.118" />
-    <add key="ChromeDriverPath" value="D:\Tuyen-dung\ManagerCrawl\ManagerCrawl\bin\Debug\Chrome\134.0.6998.165\X64\chromedriver.exe" />
-    <add key="ChromeProfilePath" value="C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Profile 2" />
+    <add key="ChromeDriverVersion" value="" />
+    <add key="ChromeDriverPath" value="" />
+    <add key="ChromeProfilePath" value="" />
   </appSettings>
   <runtime>
     <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
